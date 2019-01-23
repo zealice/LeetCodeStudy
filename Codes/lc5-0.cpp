@@ -2,7 +2,7 @@
 #include<string>
 using namespace std;
 //蛮力解决，复杂度O(n^3)
-
+//1760 ms, faster than 0.99% of C++ online submissions for Longest Palindromic Substring.
 string longestPalindrome(string s) {
 	int i, j, k;
 	bool f = true;
