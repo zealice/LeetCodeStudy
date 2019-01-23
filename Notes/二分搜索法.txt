@@ -1,0 +1,8 @@
+问题：
+4. Median of Two Sorted Arrays
+
+方法：
+lc4-2.cpp
+
+复杂度:
+O(log(N))
