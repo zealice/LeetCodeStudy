@@ -1,3 +1,5 @@
+//复杂度O(N^2)
+//72 ms, faster than 40.08% of C++ online submissions for Two Sum.
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
